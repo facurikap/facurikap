@@ -4,6 +4,7 @@ I'm from Argentina. I am passionate about technology and I am constantly looking
 ### 🎓 Studies
 I am currently studying Systems Engineering at UTN
 ### 📢 Contacts
+* 💻 [LinkedIn](https://www.linkedin.com/in/facundo-perez-rikap-530562171/)
 #### ⌨ Most used commands
 | Commands | Description |
 | -------- | ----------- |
