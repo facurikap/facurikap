@@ -1,16 +1,17 @@
-# 👋 facurikap
-
-<!--
-**facurikap/facurikap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 I´m Facundo Rikap
+## 📋 About me
+I'm from Argentina. I am passionate about technology and I am constantly looking for new knowledge. I consider myself someone capable of facing difficult situations and dealing with them in the best way 
+### 🎓 Studies
+I am currently studying Systems Engineering at UTN
+### 📢 Contacts
+#### ⌨ Most used commands
+| Commands | Description |
+| -------- | ----------- |
+| `ls` | Lists the files in the current folder, or the given path |
+| `cp` | It is the command that allows us to copy files given an initial path and a path final |
+| `pwd` | We have the absolute path of the current directory, so we can know where we are located |
+| `rm` | It allows us to delete a file given a path |
+| `touch` | Create a new file given a path and/or name |
+#### 🖱 Alias commands
+* cl = `"clear"` **Abbreviation for clear**
+* rm = `"trash"` **Avoid deleting files permanently**
