@@ -6,13 +6,13 @@ I am currently studying Systems Engineering at UTN
 ### 📢 Contacts
 * 💻 [LinkedIn](https://www.linkedin.com/in/facundo-perez-rikap-530562171/)
 #### ⌨ Most used commands
-| Commands | Description |
-| -------- | ----------- |
-| `ls` | Lists the files in the current folder, or the given path |
-| `cp` | It allows us to copy files given an initial path and a path final |
-| `pwd` | We have the absolute path of the current directory, so we can know where we are located |
-| `rm` | It allows us to delete a file given a path |
-| `touch` | Create a new file given a path and/or name |
+| Commands | Description                                                                             |
+| -------- | --------------------------------------------------------------------------------------- |
+| `ls`     | Lists the files in the current folder, or the given path                                |
+| `cp`     | It allows us to copy files given an initial path and a path final                       |
+| `pwd`    | We have the absolute path of the current directory, so we can know where we are located |
+| `rm`     | It allows us to delete a file given a path                                              |
+| `touch`  | Create a new file given a path and/or name                                              |
 #### 🖱 Alias commands
 * cl = `"clear"` **Abbreviation for clear**
 * rm = `"trash"` **Avoid deleting files permanently**
